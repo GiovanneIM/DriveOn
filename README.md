@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Projeto Integrador</b><br>
-Projeto Integrador referente ao 1º semestre de 2025 para a Escola SENAI Armando de Arruda Pereira, São Caetano do Sul, SP.
+  Projeto Integrador referente ao 1º semestre de 2025 para a Escola SENAI Armando de Arruda Pereira, São Caetano do Sul, SP.
 </p>
 
 <p align="center">
