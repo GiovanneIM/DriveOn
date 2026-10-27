@@ -43,10 +43,10 @@ O site conta com:
 
 Decidimos desenvolver o sistema para uma empresa fictícia de locação de veículos chamada **DriveOn**.
 
-O sistema foi desenvolvido para a navegação do usuário, permitindo que ele crie ou entre em uma conta, veja a frota de veículos e faça a reserva deles.ctiva empresa  
+O sistema foi desenvolvido priorizano a navegação do usuário, buscamos criar uma interface organizada e de simples entendimento, além de implementar controle de sessão, permitindo que o cliente identifique-se e realize reservas a partir do site
 
 > 🧠 **Resumo:**  
-> O sistema exibe ao usuário os veículos dísponiveis para aluguel, crie uma conta e alugue um automóvel.
+> O sistema exibe ao usuário os veículos dísponiveis para aluguel, e permite que o mesmo uma conta e alugue um automóvel.
 
 ---
 
